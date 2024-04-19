@@ -15,10 +15,13 @@ define([],
          * @since 2015.2
          */
         const beforeLoad = (scriptContext) => {
+            
             log.debug("Hello");
             log.debug("Hello");
             log.debug("Hello");
             log.debug("Hello");
+            log.debug("Hello");
+            log.debug("Hello")
 
 
         }
